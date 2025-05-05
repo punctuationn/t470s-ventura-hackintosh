@@ -8,3 +8,4 @@ Realtek ALC298 @ Intel Sunrise Point-LP PCH - High Definition Audio Controller [
 Intel Dual Band Wireless-AC 8265 WiFi Adapter <br>
 Intel Ethernet Connection (4) I219-LM <br>
 KXG5AZNV512G TOSHIBA (TOSHIBA XG5 NVME SSD 512 GB M.2 2280)
+16GB Ram
