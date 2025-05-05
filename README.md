@@ -1,6 +1,8 @@
 # macOS Ventura EFI folder for T470s
 # GET YOUR OWN SERIAL NUMBERS 
-To get them just follow this section of the opencore guide also i used MacbookPro14,1  https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo <br><br>
+To get them just follow this section of the opencore guide also i used MacbookPro14,1  https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo <br>
+you should still read the entire opencore guide but if you're on a time crunch (you shouldn't be doing this in the first place) just read the config.plist section for kaby lake laptop
+<br>
 Specifications: <br>
 Intel(R) Core(TM) i7-7600U CPU @ 2.80 GHz <br>
 Intel(R) HD Graphics 620 <br>
