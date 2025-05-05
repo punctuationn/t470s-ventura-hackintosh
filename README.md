@@ -1,6 +1,6 @@
 # macOS Ventura EFI folder for T470s
 # GET YOUR OWN SERIAL NUMBERS 
-# To get them just follow this section of the opencore guide https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo
+To get them just follow this section of the opencore guide  https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo <br><br>
 Specifications: <br>
 Intel(R) Core(TM) i7-7600U CPU @ 2.80 GHz <br>
 Intel(R) HD Graphics 620 <br>
