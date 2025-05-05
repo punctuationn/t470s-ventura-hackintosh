@@ -8,4 +8,5 @@ Realtek ALC298 @ Intel Sunrise Point-LP PCH - High Definition Audio Controller [
 Intel Dual Band Wireless-AC 8265 WiFi Adapter <br>
 Intel Ethernet Connection (4) I219-LM <br>
 KXG5AZNV512G TOSHIBA (TOSHIBA XG5 NVME SSD 512 GB M.2 2280)
-16GB Ram
+16GB Ram<br><br>
+also quick note remove the intelbtpatcher, bluetoolfixup and intel bluetooth firmware kexts when installing also remember to update the config.plist just add them back and reflect that in the config.plist
