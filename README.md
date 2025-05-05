@@ -1,0 +1,1 @@
+# t470s-ventura-hackintosh
